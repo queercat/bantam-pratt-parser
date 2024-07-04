@@ -4,6 +4,10 @@ This is a [Pratt parser](https://en.wikipedia.org/wiki/Operator-precedence_parse
 
 You will find everything in the [src/](https://github.com/queercat/bantam-pratt-parser-typescript/tree/main/src) directory and specifically all of the tests in [src/index.ts](https://github.com/queercat/bantam-pratt-parser-typescript/tree/main/src/index.ts).
 
+# Requirements
+- Node >= 18.
+- ~~A hatred in your heart for JavaScript~~.
+
 # Setup
 ```sh
 npm install
